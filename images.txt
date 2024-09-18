@@ -1,3 +1,4 @@
 mysql:9.0.1-oracle
+rustscan/rustscan:2.1.1
 # golang
 # python
