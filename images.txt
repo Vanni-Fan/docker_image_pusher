@@ -2,5 +2,6 @@ mysql:9.0.1-oracle
 rustscan/rustscan:2.1.1
 harlancn/xiu
 rust:1
+alpine:latest
 # golang
 # python
