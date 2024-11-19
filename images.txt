@@ -4,5 +4,6 @@ harlancn/xiu
 rust:1
 alpine:latest
 php:8.0-apache-bullseye
-# golang
-# python
+bitnami/kafka:3.9.0-debian-12-r3
+golang:1.23.3
+python:3.13
